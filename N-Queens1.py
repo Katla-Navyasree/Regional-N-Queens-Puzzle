@@ -358,5 +358,5 @@ class QueensApp:
 if __name__ == '__main__':
     root = tk.Tk()
     root.title("N-Queens with Regions")
-    app = QueensApp(root, n=7)
+    app = QueensApp(root, n=8)
     root.mainloop()
